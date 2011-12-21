@@ -97,8 +97,8 @@ body {
 }
 
 .slides.template-default > article:not(.nobackground):not(.biglogo) {
-	background: url(images/google-logo-small.png) 710px 625px no-repeat;  
-  
+/*	background: url(images/google-logo-small.png) 710px 625px no-repeat;  
+*/  
 	background-color: white;  
 } 
 
